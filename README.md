@@ -10,7 +10,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Modified by Joel H.
 
-## Available Scripts
+## Usage
+
+### Package installation
+```shell
+npm i --legacy-peer-deps
+```
 
 In the project directory, you can run:
 
